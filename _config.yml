@@ -3,9 +3,6 @@
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
-# Remote Theme
-remote_theme: Simpleyyt/jekyll-theme-next
-
 # Site
 title: NexT
 subtitle:
@@ -17,8 +14,8 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: "https://cielo4n.github.io"
-baseurl: ""
+url:
+baseurl:
 permalink: pretty
 
 # Pagination
