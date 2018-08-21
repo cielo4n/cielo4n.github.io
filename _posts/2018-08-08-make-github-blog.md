@@ -1,5 +1,5 @@
 ---
-title: GitHub Blog
+title: 깃허브 블로그 만들기
 date: 2018-08-08
 description: 깃허브 블로그 / 지킬테마 / 로컬 서버에서 확인
 categories:
@@ -31,7 +31,7 @@ repository 계정이름을 `{아이디}.github.io` 로 생성한다
 git clone https://github.com/Simpleyyt/jekyll-theme-next.git
 ```
 
-## 3. 저장소에 올려 지킬테마 확인
+## 3. repository에 올려 지킬테마 확인
 
 폴더를 git으로 버전관리하고 나의 repository와 연결한다.
 ```sh
@@ -60,7 +60,7 @@ bundle exec jekyll serve
 ```
 아마 위 순서대로 설치하고 `http://127.0.0.1:4000` 로 접속하면 로컬에서의 페이지가 실행될 것이다.
 
-혹시 실행되지 않을 경우 내가 이전에 설치했던 것을 적어놓는다.
+혹시 실행되지 않을 경우에 내가 이전에 설치했던 것을 적어놓는다.
 ```sh
 gem install jekyll
 gem install rouge

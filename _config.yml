@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: LeaVE
+title: 남기다
 subtitle: 
-description: programming memo
+description: 프로그래밍 관련 메모입니다
 author: Skyler
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: ko
 date_format: '%Y-%m-%d'
 
 # URL
